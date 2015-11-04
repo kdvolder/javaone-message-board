@@ -1,0 +1,5 @@
+---
+applications:
+- name: javaone-message-board
+  memory: 1024M
+  host: javaone-message-board
